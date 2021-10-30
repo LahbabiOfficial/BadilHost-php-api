@@ -1,6 +1,7 @@
 # Description
 This client is used to interact with one of the following APIs:
- * BadilHost ([Docs](resellerclub-php-api/kb/answer/751))
+ * BadilHost ([Docs](https://my.badilhost.com/kb/answer/751))
+ * ResellerClub ([Docs](https://resellerclub.webpropanel.com/kb/answer/751))
  
 Available API requests: 
 * Actions
