@@ -1,11 +1,11 @@
 {
-  "name": "habil/resellerclub-php-api",
-  "description": "PHP SDK for ResellerClub API",
+  "name": "LahbabiOfficial/BadilHost-php-api",
+  "description": "PHP SDK for BadilHost API",
   "license": "MIT",
   "authors": [
     {
-      "name": "Siavash Habil",
-      "email": "amirkhiz@gmail.com"
+      "name": "Zakariae Lahbabi",
+      "email": "lahbabi.dev@gmail.com"
     }
   ],
   "require": {
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "habil\\ResellerClub\\": "src/"
+      "LahbabiOfficial\\BadilHost-php-api\\": "src/"
     }
   },
   "config": {
