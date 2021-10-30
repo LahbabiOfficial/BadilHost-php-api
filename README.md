@@ -16,7 +16,7 @@ composer require LahbabiOfficial/BadilHost-php-api
 
 ## Usage Example
 ```php
-use LahbabiOfficial\BadilHost\ResellerClub;
+use LahbabiOfficial\BadilHost\BadilHost-php-api;
 
 $resellerClub = new ResellerClub('<userId>', '<apiKey>');
 $resellerClub->domains()->available(['google', 'example'], ['com', 'net']);
